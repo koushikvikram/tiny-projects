@@ -16,4 +16,3 @@ def render_advertisement():
 def clear_advertisement():
 	'''Remove the advertisement from screen'''
 	cv2.destroyWindow("Advertisement")
-
