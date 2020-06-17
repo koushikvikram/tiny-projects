@@ -35,9 +35,15 @@ git clone https://github.com/koushikvikram/tiny-projects/tree/master/opencv-ad-r
 ```bash
 python demo.py
 ```
-3. If you would like to test it on a different video, replace the contents of the [video](https://github.com/koushikvikram/tiny-projects/tree/master/opencv-ad-rendering-v1/data/video) folder with your video. 
+3. While the video is being played, press the *"Space Bar"* key to pause and you'll see an advertisement displayed on screen.
 
-4. If you would like to render a different set of advertisements, replace the contents of the [images](https://github.com/koushikvikram/tiny-projects/tree/master/opencv-ad-rendering-v1/data/images) folder with your advertisements. 
+4. Press the *"Space Bar"* key again to resume the video.
+
+5. Repeat as many times as you want!
+
+> If you would like to test it on a different video, replace the contents of the [video](https://github.com/koushikvikram/tiny-projects/tree/master/opencv-ad-rendering-v1/data/video) folder with your video. 
+
+> If you would like to render a different set of advertisements, replace the contents of the [images](https://github.com/koushikvikram/tiny-projects/tree/master/opencv-ad-rendering-v1/data/images) folder with your advertisements. 
 
 ## Demo
 
