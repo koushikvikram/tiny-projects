@@ -41,7 +41,7 @@ python demo.py
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2lp9nEabI1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![OpenCV - Render Advertisement on Video Pause](https://img.youtube.com/vi/2lp9nEabI1o/0.jpg)](https://www.youtube.com/watch?v=2lp9nEabI1o)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2lp9nEabI1o)
 
